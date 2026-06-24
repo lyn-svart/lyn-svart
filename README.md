@@ -26,7 +26,7 @@ Yüksek lisans düzeyinde yapay zeka, bilgisayarlı görü ve derin öğrenme ü
 
 ### 📱 Wonderkid: Football Career Sim
 Geliştiricisi olduğum, Flutter ve Dart kullanarak hayata geçirdiğimiz mobil futbol kariyer simülasyonu oyunu. 
-* **Durum:** Google Play Store & App Store üzerinde yayında!
+* **Durum:** Google Play Store & App Store üzerinde yayında! (150.000+ İndirme sayısı)
 * **Teknolojiler:** Flutter, Dart, State Management, Local Database
 * 🔗 [Google Play Mağaza Linki](https://play.google.com/store/apps/details?id=com.bbi.futbol_spinner) | [App Store Mağaza Linki](https://apps.apple.com/tr/app/wonderkid-football-career-sim/id6761427788?l=tr)
 
@@ -38,8 +38,6 @@ Geliştiricisi olduğum, Flutter ve Dart kullanarak hayata geçirdiğimiz mobil 
 * Lisans bitirme projem kapsamında geliştirdiğim, kullanıcı tercihlerine göre makine öğrenmesi tabanlı film önerileri sunan veri bilimi projesi.
 
 ---
-
-## 📊 GitHub İstatistiklerim
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lyn-svart&show_icons=true&theme=tokyonight&count_private=true" alt="Burak's GitHub Stats" />
