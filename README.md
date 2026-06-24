@@ -36,7 +36,7 @@ Geliştiricisi olduğum, Flutter ve Dart kullanarak hayata geçirdiğimiz mobil 
 
 ### 🎬 Film Öneri Sistemi
 * Lisans bitirme projem kapsamında geliştirdiğim, kullanıcı tercihlerine göre makine öğrenmesi tabanlı film önerileri sunan veri bilimi projesi.
-
+[Repo]([https://play.google.com/store/apps/details?id=com.bbi.futbol_spinner](https://github.com/lyn-svart/final_project))
 ---
 
 <p align="center">
