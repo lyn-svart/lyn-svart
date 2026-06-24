@@ -28,7 +28,7 @@ Yüksek lisans düzeyinde yapay zeka, bilgisayarlı görü ve derin öğrenme ü
 Geliştiricisi olduğum, Flutter ve Dart kullanarak hayata geçirdiğimiz mobil futbol kariyer simülasyonu oyunu. 
 * **Durum:** Google Play Store & App Store üzerinde yayında!
 * **Teknolojiler:** Flutter, Dart, State Management, Local Database
-* 🔗 [Google Play Mağaza Linki](BURAYA_LINKI_YAPISTIR) | [App Store Mağaza Linki](BURAYA_LINKI_YAPISTIR)
+* 🔗 [Google Play Mağaza Linki](https://play.google.com/store/apps/details?id=com.bbi.futbol_spinner) | [App Store Mağaza Linki](https://apps.apple.com/tr/app/wonderkid-football-career-sim/id6761427788?l=tr)
 
 ### 📑 Akademik Araştırmalar & TÜBİTAK Projeleri
 * **Sürüş Videolarında Uzamsal-Zamansal Derin Öğrenme Mimarileri (TÜBİTAK 3501):** Otonom sürüş senaryolarında nesne, hız ve hareket tespiti üzerine uçtan uca derin öğrenme modelleri ve iki akışlı (two-stream) mimariler üzerine çalışıyorum.
@@ -42,13 +42,13 @@ Geliştiricisi olduğum, Flutter ve Dart kullanarak hayata geçirdiğimiz mobil 
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight&count_private=true" alt="Burak's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lyn-svart&show_icons=true&theme=tokyonight&count_private=true" alt="Burak's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyn-svart&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🤝 Benimle İletişime Geçin
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](BURAYA_LINKEDIN_LINKI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-karadurak/)
 [![E-posta](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karadurak.burakk@gmail.com)
